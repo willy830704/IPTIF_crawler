@@ -34,5 +34,6 @@ while True:
                 print("散戶要來啦！！！")
             row.append(cell_text)
         print(row)
-    
+   
+    print("Please hold 20 seconds") 
     time.sleep(20)
